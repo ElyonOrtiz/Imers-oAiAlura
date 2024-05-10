@@ -11,3 +11,7 @@ Será passado alguns parametros para a inteligência artificia como:
 - Input pedindo uma auto descrição de pontos fortes e fracos do usuário(ou Quiz com perguntas que possam verificar o conhecimento do aluno podendo variar de acordo com a areá de estudos)
 - E qual o interresse do aluno.
 Após essas etapas a ia terá dados o suficiente para realizar a analise de dodos e retornará uma plano de estudos personalizado com as recomendações especificas.
+
+
+
+O PROJETOD AINDA ESTÁ INCOMPLETO FALTAM ALGUNS CONHECIMENTOS MAIS APROFUNDADOS SOBRE A API DO GITHUB, MAS SHAVERÁ MELHORIAS
